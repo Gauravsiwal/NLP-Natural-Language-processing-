@@ -12,3 +12,5 @@ A simple chatbot using a cosine similarity. [Open](https://github.com/Gauravsiwa
 
 Sentiment analysis using textblob for Amazon, Snapdeal and Flipkart. [Open](https://github.com/Gauravsiwal/NLP-Natural-Language-processing-/blob/9f7c3d2eca0d35766ce69ab6b5935ac9d251740a/sentiment%20analysis%20flipkart%20amazon%20snapdeal.ipynb)
 
+Query Domain Classification- AV Datahack Competetion. [Open]()
+
